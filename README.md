@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amr Ibrahim</h1>
 <h3 align="center">Software Developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://amreltanany.github.io/Portfolio/](https://amreltanany.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://amreltanany.github.io/Amr_Tanany//](https://amreltanany.github.io/Amr_Tanany/)
 
 - 📫 How to reach me **Amr_ElTanany@Outlook.com**
 
